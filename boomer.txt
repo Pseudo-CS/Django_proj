@@ -1,0 +1,8 @@
+django - 
+email and mobile verification
+integrate payment gateway(more than one services)
+integrate celery 
+implement web socket using channels
+security
+
+https://www.javatpoint.com/django-user-registration-with-email-confirmation
